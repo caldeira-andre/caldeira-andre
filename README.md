@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 hmm
-![Discord Card](https://discord.c99.nl/widget/theme-3/665104164774215690.png)
+![Discord Card](https://discord.c99.nl/widget/theme-4/665104164774215690.png)
