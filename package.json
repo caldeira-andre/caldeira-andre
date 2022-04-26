@@ -1,0 +1,11 @@
+{
+  "name": "pie-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "caldeira",
+  "license": "ISC"
+}
